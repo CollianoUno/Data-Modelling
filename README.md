@@ -1,2 +1,2 @@
-# Business-Process-modelling
+#-Data-modelling
 In this project i looked at the value of data which can also be referred to the benefits and advantages that organisations can derive from their data assets, such as innovations, services, security measures, improved decision-making, better customer experiences, increased operational efficiency, and revenue streams. Good data allows organisations to establish baselines, benchmarks, and goals to keep moving forward. Because data allows organisations to measure, establish baselines, find benchmarks, and set performance goals. 
